@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* unvisited link */
+a:link {
+	color: red;
+	text-decoration:underline;
+}
+
+/* visited link */
+a:visited {
+	color: green;
+}
+
+/* mouse over link */
+a:hover {
+	color: hotpink;
+}
+
+/* selected link */
+a:active {
+	color:  blue;
+}
